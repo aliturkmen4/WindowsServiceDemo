@@ -1,0 +1,20 @@
+Simple Service started 18.04.2022 09:53:56 ÖS
+Simple Service Mode: DAİLY 18.04.2022 09:53:56 ÖS
+Simple Service scheduled to run after: -738262 day(s) -21 hour(s) -53 minute(s) -56 seconds(s) 18.04.2022 09:53:56 ÖS
+Simple Service Error on: 18.04.2022 09:53:56 ÖS Değer bir Int32 için çok büyük ya da çok küçüktü.   konum: System.Convert.ToInt32(Double value)
+   konum: WindowsServiceDemo.Service1.ScheduleService() C:\Users\alitu\source\repos\WindowsServiceDemo\WindowsServiceDemo\Service1.cs içinde: satır 79
+Simple Service started 18.04.2022 09:59:47 ÖS
+Simple Service Mode: DAİLY 18.04.2022 09:59:47 ÖS
+Simple Service scheduled to run after: -738262 day(s) -21 hour(s) -59 minute(s) -47 seconds(s) 18.04.2022 09:59:47 ÖS
+Simple Service Error on: 18.04.2022 09:59:47 ÖS Değer bir Int32 için çok büyük ya da çok küçüktü.   konum: System.Convert.ToInt32(Double value)
+   konum: WindowsServiceDemo.Service1.ScheduleService() C:\Users\alitu\source\repos\WindowsServiceDemo\WindowsServiceDemo\Service1.cs içinde: satır 79
+Simple Service started 18.04.2022 10:04:47 ÖS
+Simple Service Mode: DAİLY 18.04.2022 10:04:47 ÖS
+Simple Service scheduled to run after: -738262 day(s) -22 hour(s) -4 minute(s) -47 seconds(s) 18.04.2022 10:04:47 ÖS
+Simple Service Error on: 18.04.2022 10:04:47 ÖS Değer bir Int32 için çok büyük ya da çok küçüktü.   konum: System.Convert.ToInt32(Double value)
+   konum: WindowsServiceDemo.Service1.ScheduleService() C:\Users\alitu\source\repos\WindowsServiceDemo\WindowsServiceDemo\Service1.cs içinde: satır 79
+Simple Service started 18.04.2022 10:29:12 ÖS
+Simple Service Mode: DAİLY 18.04.2022 10:29:12 ÖS
+Simple Service scheduled to run after: -738262 day(s) -22 hour(s) -29 minute(s) -12 seconds(s) 18.04.2022 10:29:12 ÖS
+Simple Service Error on: 18.04.2022 10:29:12 ÖS Değer bir Int32 için çok büyük ya da çok küçüktü.   konum: System.Convert.ToInt32(Double value)
+   konum: WindowsServiceDemo.Service1.ScheduleService() C:\Users\alitu\source\repos\WindowsServiceDemo\WindowsServiceDemo\Service1.cs içinde: satır 79
